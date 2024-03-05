@@ -2,7 +2,7 @@
 #include <Arduino.h>
 
 int led = 13;
-int onDelay = 500;
+int onDelay = 200;
 int offDelay = 200;
 
 void setup() {
