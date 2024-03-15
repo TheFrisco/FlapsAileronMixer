@@ -1,7 +1,7 @@
 // Roberts First Arduino ... Not Quite "Hello World!" LOL
 #include <Arduino.h>
 
-int led = 13;
+int led = 12;
 int onDelay = 200;
 int offDelay = 200;
 
